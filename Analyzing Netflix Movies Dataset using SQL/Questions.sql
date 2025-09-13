@@ -1,0 +1,11 @@
+-- Business Questions (Queries) 
+-- Top 10 most popular movies
+-- Top 5 highest-rated movies
+-- Most voted movies (audience engagement)
+-- Movies released in 2022 
+-- Count of movies per year
+-- Average rating by genre
+-- Most common original language 
+-- Top 5 English movies by popularity
+-- Longest overview descriptions (interesting insight)
+-- Popularity vs Rating trend (for analysis)
